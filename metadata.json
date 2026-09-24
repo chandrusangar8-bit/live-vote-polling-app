@@ -1,0 +1,6 @@
+{
+  "name": "PulseVote - Live Polling SaaS",
+  "description": "Production-ready dark-themed live polling SaaS with instant atomic vote counts, real-time WebSocket updates, JWT authentication, and interactive analytical charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
